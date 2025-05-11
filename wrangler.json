@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "test-umz-cc",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9634fbf7-b7c5-44a9-abd8-cde95461185d",
+      "database_name": "test-umz-cc"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
